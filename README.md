@@ -1,46 +1,50 @@
-# Projeto Acadêmico: Banco de Dados para Pizzaria  
+# Projeto acadêmico: Banco de Dados para Pizzaria
 
-**REPO SIZE** 📂 – **LANGUAGES**: SQL – **FORKS**: 1  
-
----
-
-## 📌 Sobre o projeto  
-Este projeto representa o desenvolvimento de um **banco de dados relacional para uma pizzaria**, concebido como um trabalho avaliativo acadêmico.  
-
-O objetivo principal foi **modelar e implementar um sistema de pedidos de pizzas** que simula operações do mundo real, incluindo clientes, endereços, sabores, combinações, pizzas, pedidos e pagamentos.  
-
-Além disso, o projeto conta com:  
-- **Triggers** para manter histórico de compras;  
-- **Views** para consultas otimizadas (como sabores mais vendidos e pedidos não entregues);  
-- **Procedures** para manipulação de dados (como atualizar status de pedidos).  
-
-> ⚠️ Este projeto tem finalidade exclusivamente **acadêmica**, sem qualquer propósito financeiro.  
+![GitHub repo size](https://img.shields.io/github/repo-size/usuario/repositorio?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/usuario/repositorio?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/usuario/repositorio?style=for-the-badge)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas  
-- **MySQL**  
-- **SQL Scripts**  
-- **Workbench** (ou outro cliente SQL para execução)  
+### Sobre o projeto
+> Este projeto representa o desenvolvimento de um **banco de dados relacional para uma pizzaria**, concebido como um trabalho avaliativo acadêmico.  
+> O principal objetivo foi aplicar e testar conhecimentos em **modelagem, criação de tabelas, relacionamentos, triggers, views e procedures**.  
+> Dessa forma, o sistema simula um fluxo real de pedidos, pagamentos e histórico de clientes.  
+
+> [!NOTE]  
+> <b>Este projeto tem finalidade exclusivamente acadêmica, sem qualquer intuito financeiro.</b>
 
 ---
 
-## ⚡ Ajustes e melhorias  
-> 🔔 Aviso: O projeto já está **completo** e não passará por novas melhorias ou alterações estruturais.  
+### Tecnologias Utilizadas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+</div>
 
 ---
 
-## 📋 Pré-requisitos para edição do projeto  
-Antes de começar, verifique se você possui:  
-- **MySQL** instalado (versão 8.x recomendada);  
-- Cliente SQL (Workbench, DBeaver ou linha de comando);  
-- Permissões de administrador para criar bancos e tabelas.  
+### Ajustes e melhorias
+> [!WARNING]  
+> O projeto está completo e **não mais passará por ajustes ou melhorias**.
 
 ---
 
-## 🚀 Utilizando o projeto  
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/usuario/repositorio.git
+## 💻 Pré-requisitos para edição do projeto
 
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
+* Você instalou o **MySQL 8.x** (ou superior).  
+* Você possui um cliente SQL como **MySQL Workbench** ou **DBeaver**.  
+* Você tem permissões de administrador para criar e manipular bancos de dados.  
+
+---
+
+## 🚀 Utilizando o projeto
+
+* Clone este repositório:
+```bash
+git clone https://github.com/usuario/repositorio.git
