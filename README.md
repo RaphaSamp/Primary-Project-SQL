@@ -1,8 +1,9 @@
 # Projeto acadêmico: Banco de Dados para Pizzaria
 
-![GitHub repo size](https://img.shields.io/github/repo-size/usuario/repositorio?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/usuario/repositorio?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/usuario/repositorio?style=for-the-badge)
+![Repo Size](https://img.shields.io/badge/Repo%20Size-143%20MB-blue?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-1-orange?style=for-the-badge)
+![Forks](https://img.shields.io/badge/Forks-1-brightgreen?style=for-the-badge)
+
 
 ---
 
